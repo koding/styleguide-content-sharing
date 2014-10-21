@@ -24,3 +24,11 @@ Google+
 - must be at least 400px wide.
 - must have an aspect ratio no wider than 5:2 (width:height).
 - recommended 1200 x 480
+
+
+Validators
+==========
+
+- Twitter https://cards-dev.twitter.com/validator
+- Facebook https://developers.facebook.com/tools/debug/og/object/
+- Google+ n/a (just try with embedding in a post without actually posting)
