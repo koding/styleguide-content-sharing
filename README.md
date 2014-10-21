@@ -8,6 +8,8 @@ Twitter
 - Maximum to appear expanded 1024 x 512
 - Appears in stream collapsed at 506 x 253
 - Maximum file size of 5 MB for photos, and 3 MB for animated GIFs.
+- Aspect ratio 2:1 for [Summary large image](https://dev.twitter.com/cards/types/summary-large-image) type
+- Aspect ratio 1:1 for [Summary](https://dev.twitter.com/cards/types/summary) type
 
 Facebook
 --------
