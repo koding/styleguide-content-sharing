@@ -31,4 +31,4 @@ Validators
 
 - Twitter https://cards-dev.twitter.com/validator
 - Facebook https://developers.facebook.com/tools/debug/og/object/
-- Google+ n/a (just try with embedding in a post without actually posting)
+- For Google+ try a real embed. https://plus.google.com
